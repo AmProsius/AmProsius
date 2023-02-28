@@ -1,6 +1,6 @@
 Hi, my name is Fabian and I'm a full stack developer, father and huge nerd.
 
-My favorite stack is [Symfony](https://symfony.com/) + [Stimulus](https://stimulus.hotwired.dev/) + [Tailwind CSS](https://tailwindcss.com/) + [Alpine](https://alpinejs.dev/) (TASS). It's similar to Laravel's [TALL stack](https://tallstack.dev/), but with Symfony.
+My favorite stack is [Symfony](https://symfony.com/) + [Stimulus](https://stimulus.hotwired.dev/) + [Tailwind CSS](https://tailwindcss.com/) + [Alpine.js](https://alpinejs.dev/) (TASS). It's similar to Laravel's [TALL stack](https://tallstack.dev/), but with Symfony.
 
 I'm also an Upgrade Specialist. My current areas of expertise are:
 
